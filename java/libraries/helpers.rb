@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-require 'chef/version_constraint'
+#require 'chef/version_constraint'
 require 'uri'
 require 'pathname'
 
